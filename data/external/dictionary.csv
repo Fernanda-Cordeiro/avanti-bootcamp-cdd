@@ -1,6 +1,6 @@
 Variável,Descrição,Tipo,Subtipo
-total_bill,Valor Total da Conta,Quantitativa,Contínua
-tip,Valor da Gorjeta,Quantitativa,Contínua
+total_bill (US$),Valor Total da Conta,Quantitativa,Contínua
+tip (US$),Valor da Gorjeta,Quantitativa,Contínua
 sex,Sexo do Cliente,Qualitativa,Nominal
 smoker,Se Cliente é Fumante,Qualitativa,Nominal
 day,Dia da Semana,Qualitativa,Ordinal
