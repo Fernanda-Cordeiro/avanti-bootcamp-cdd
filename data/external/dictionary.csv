@@ -1,8 +1,8 @@
 variavel,descricao,tipo,subtipo
-total_bill (US$),valor total da conta,quantitativa,continua
-tip (US$),valor da gorjeta,quantitativa,continua
+total_bill,valor total da conta em dólares,quantitativa,continua
+tip,valor da gorjeta em dólares,quantitativa,continua
 sex,sexo do cliente,qualitativa,nominal
-smoker,se cliente fuma,qualitativa,nominal
+smoker,se o cliente fuma,qualitativa,nominal
 day,dia da semana,qualitativa,ordinal
 time,horario,qualitativa,ordinal
 size,pessoas na mesa,quantitativa,discreta
