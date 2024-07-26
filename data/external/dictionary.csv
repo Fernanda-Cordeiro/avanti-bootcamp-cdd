@@ -1,8 +1,8 @@
-Variável,Descrição,Tipo,Subtipo
-total_bill (US$),Valor Total da Conta,Quantitativa,Contínua
-tip (US$),Valor da Gorjeta,Quantitativa,Contínua
-sex,Sexo do Cliente,Qualitativa,Nominal
-smoker,Se Cliente é Fumante,Qualitativa,Nominal
-day,Dia da Semana,Qualitativa,Ordinal
-time,Horário,Qualitativa,Ordinal
-size,N.° de Pessoas na Mesa,Quantitativa,Discreta
+variavel,descricao,tipo,subtipo
+total_bill (US$),valor total da conta,quantitativa,continua
+tip (US$),valor da gorjeta,quantitativa,continua
+sex,sexo do cliente,qualitativa,nominal
+smoker,se cliente fuma,qualitativa,nominal
+day,dia da semana,qualitativa,ordinal
+time,horario,qualitativa,ordinal
+size,pessoas na mesa,quantitativa,discreta
