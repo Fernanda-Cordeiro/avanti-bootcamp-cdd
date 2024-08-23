@@ -5,7 +5,7 @@ Este projeto busca melhor compreender se o perfil do cliente, seus hábitos e o 
 Por meio dos dados fornecidos, utilizando técnicas de Ciências de Dados, é possível realizar previsões acerca das gorjetas por meio da identificação de padrões e tendências.
 
 ## Graphical Abstract
-![Resumo Gráfico](images/gorjetas_graphical_abstract.pdf)
+![Resumo Gráfico](images/gorjetas_graphical_abstract.png)
 
 ## Desenvolvedor
 - [Maria Fernanda Cordeiro](https://github.com/Fernanda-Cordeiro)
